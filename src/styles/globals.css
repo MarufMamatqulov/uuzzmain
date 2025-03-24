@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navItem {
+  @apply ease-in duration-300 hover:text-primary cursor-pointer my-6  lg:mx-8 active:text-primary
+}
+.language {
+  @apply ease-in duration-300 hover:text-primary cursor-pointer my-2 mx-4 active:text-primary
+}

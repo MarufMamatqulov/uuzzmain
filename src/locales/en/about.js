@@ -1,0 +1,4 @@
+export const about = {
+  about:
+    "Today, every nation is trying to learn about its history and culture. The priority of universal interests is to recognize and respect the experience and legal knowledge of all peoples, to contribute to the mutual enrichment of different cultural traditions. On the basis of getting acquainted with the cultural talents and traditions of other nations, it is considered an indispensable condition for the preservation of cultural objects and the renewal of Uzbekistan. first of all, the education of the heart is formed. Chunky Uzbek people have preserved the unique characteristics and moral qualities of our nation. The main goal of this site is to help the next generation to preserve the rich and unrepeatable cultural heritage of our people, to form a sense of national pride in the young generation and to educate them in the spirit of patriotism.",
+};

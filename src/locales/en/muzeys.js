@@ -1,0 +1,16 @@
+export const muzeys = {
+  "uzb-tarix": "Museum of applied arts of Uzbekistan",
+  "amaliy-sanat": "Museum of applied arts of Uzbekistan",
+  tabiat: "State Nature Museum of Uzbekistan",
+  sanat: "State Art Museum of Uzbekistan",
+  tarix: "State Museum of the History of Timurids",
+  xotira: "Qatag'on qurbonlari xotirasi muzeyi",
+  "qiroliy-kuchlar": "Armed Forces Museum",
+  "shon-sharaf": "Museum of Honor",
+  "temir-yol": "Railway History Museum",
+  "abdulla-qahhor": "Abdullah Qahhor House-Museum",
+  "muhtor-ashrafiy": "Mukhtar Ashrafi House-Museum",
+  oybek: "Aibek House-Museum",
+  "tamara-xonim": "House-Museum of Lady Tamara",
+  tansiqboyev: "Urol Tansikbayev House-Museum",
+};

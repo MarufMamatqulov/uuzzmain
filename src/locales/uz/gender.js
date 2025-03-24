@@ -1,0 +1,15 @@
+export const gender = {
+  "alisher-navoiy": "Alisher Navoiy",
+  manguberdi: "Jaliliddin Manguberdi",
+  "ibn-sino": "Abu Ali Ibn Sino",
+  farobiy: "Abu Nasr Farobiy",
+  ulugbek: "Mirzo Ulugbek",
+  bobur: "Zahiriddin Muhammad Bobur",
+  buxoriy: "Imom Ismoil al-Buxoriy",
+  beruniy: "Abu Rayhon Beruniy",
+  yassaviy: "Ahmad Yassaviy",
+  maturudiy: "Abu Nasr al Moturudiy",
+  termiziy: "Abdulloh al-Hakim at-Termiziy",
+  temur: "Amir Temur",
+  xorazmiy: "al-Xorazmiy",
+};

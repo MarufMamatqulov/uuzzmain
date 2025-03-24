@@ -1,0 +1,16 @@
+export const muzeys = {
+  "uzb-tarix": "O'zbekiston tarixi davlat muzeyi",
+  "amaliy-sanat": "O'zbekiston amaliy sanʼat muzeyi",
+  tabiat: "O'zbekiston Davlat tabiat muzeyi",
+  sanat: "O'zbekiston Davlat sanʼat muzeyi",
+  tarix: "Temuriylar tarixi davlat muzeyi",
+  xotira: "Qatag'on qurbonlari xotirasi muzeyi",
+  "qiroliy-kuchlar": "Qurolli Kuchlar muzeyi",
+  "shon-sharaf": "Shon-Sharaf muzeyi",
+  "temir-yol": "Temir yo'llar tarixi muzeyi",
+  "abdulla-qahhor": "Abdulla Qahhor uy-muzeyi",
+  "muhtor-ashrafiy": "Muxtor Ashrafiy uy-muzeyi",
+  oybek: "Oybek uy-muzeyi",
+  "tamara-xonim": "Tamara Xonim uy-muzeyi",
+  tansiqboyev: "O'rol Tansiqboyev uy-muzeyi",
+};

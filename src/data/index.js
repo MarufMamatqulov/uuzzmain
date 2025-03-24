@@ -173,7 +173,7 @@ export const muzeys = {
     src: DavlatMuzeyImage,
     title: "muzeysInner:tarix.title",
     description: "muzeysInner:tarix.text1",
-    href: "http://360.vrmuseum.uz/museum5/",
+    href: "https://uzbekistan360.uz/uzb/location/muzej-hamida-alimdzana-i-zulfii-SrYs",
     description2: "muzeysInner:tarix.text2",
     text360: "muzeysInner:tarix.360view",
   },

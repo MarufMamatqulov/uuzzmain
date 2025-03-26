@@ -1,6 +1,6 @@
 import DavlatMuzeyImage from "../../../public/Hamid_Olimjon_va_Zulfiya_muzeyi.jpg";
 import AmaliySanatMuzeyImage from "../../../public/sanat-muzey.jpeg";
-import DavlatTabiatMuzeyImage from "../../../public/tabiat-muzey.jpeg";
+import DavlatTabiatMuzeyImage from "../../../public/tabiat muzeyi.jpg";
 import DavlatSanatMuzeyImage from "../../../public/sanat-muzeys.jpeg";
 import TemuriylarMuzeyImage from "../../../public/tarix-muzey.jpeg";
 import XotiraMuzeyImage from "../../../public/xotira-muzey.jpeg";

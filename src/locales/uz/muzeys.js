@@ -1,5 +1,5 @@
 export const muzeys = {
-  "uzb-tarix": "O'zbekiston tarixi davlat muzeyi",
+  "uzb-tarix": "Hamid Olimjon va Zulfiya muzeyi",
   "amaliy-sanat": "O'zbekiston amaliy sanʼat muzeyi",
   tabiat: "O'zbekiston Davlat tabiat muzeyi",
   sanat: "O'zbekiston Davlat sanʼat muzeyi",

@@ -1,5 +1,5 @@
 export const muzeys = {
-  "uzb-tarix": "Museum of applied arts of Uzbekistan",
+  "uzb-tarix": "Hamid Olimjon and Zulfiya Museum",
   "amaliy-sanat": "Museum of applied arts of Uzbekistan",
   tabiat: "State Nature Museum of Uzbekistan",
   sanat: "State Art Museum of Uzbekistan",

@@ -1,3 +1,3 @@
 export const footer = {
-  footer: "Bсе права защищены",
+  footer: "Barcha huquqlar himoyalangan",
 };

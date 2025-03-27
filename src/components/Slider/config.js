@@ -1,5 +1,5 @@
 import Slider from "../../../public/slider.png";
-import AmirTemur from "../../../public/2.png";
+import AmirTemur from "../../../public/2.jpg";
 import Museum from "../../../public/3.png";
 
 export const slider = [

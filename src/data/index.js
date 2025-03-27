@@ -221,7 +221,7 @@ export const muzeys = {
     src: QiroliyKuchlarMuzeyImage,
     title: "muzeysInner:kuchlar.title",
     description: "muzeysInner:kuchlar.text2",
-    href: "http://360.vrmuseum.uz/museum17/",
+    href: "https://uzbekistan360.uz/uzb/location/state-museum-of-the-armed-forces",
     description2: "muzeysInner:kuchlar.text1",
     text360: "muzeysInner:kuchlar.360view",
   },

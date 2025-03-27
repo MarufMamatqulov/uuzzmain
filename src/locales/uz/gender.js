@@ -1,6 +1,6 @@
 export const gender = {
   "alisher-navoiy": "Alisher Navoiy",
-  manguberdi: "Jaliliddin Manguberdi",
+  manguberdi: "Jaloliddin Manguberdi",
   "ibn-sino": "Abu Ali Ibn Sino",
   farobiy: "Abu Nasr Farobiy",
   ulugbek: "Mirzo Ulugbek",

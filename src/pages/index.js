@@ -10,6 +10,7 @@ import { slider } from "@/components/Slider/config";
 import { muzeys } from "@/view/MuzeysView/config";
 import { genders } from "@/view/GenderView/config";
 import { jadids } from "@/view/DjadidsView/config";
+import ChatBot from '@/components/ChatBot';
 
 const breakpoints = {
   320: {
@@ -97,4 +98,11 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default function Home() {
+  return (
+    <div>
+      {/* Saytingiz kontenti */}
+      <ChatBot />
+    </div>
+  );
+}

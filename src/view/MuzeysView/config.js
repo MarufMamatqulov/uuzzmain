@@ -3,15 +3,15 @@ import AmaliySanatMuzeyImage from "../../../public/gafur gulomk uy muzeyi.jpg";
 import DavlatTabiatMuzeyImage from "../../../public/tabiat muzeyi.jpg";
 import DavlatSanatMuzeyImage from "../../../public/islom-karimov-oq-saroy.jpg";
 import TemuriylarMuzeyImage from "../../../public/toshkent muzey.jpg";
-import XotiraMuzeyImage from "../../../public/xotira-muzey.jpeg";
+// import XotiraMuzeyImage from "../../../public/xotira-muzey.jpeg";
 import QiroliyKuchlarMuzeyImage from "../../../public/qiroliy-kuchlar.jpeg";
 import ShonSharafMuzeyImage from "../../../public/karvonsaroy1.jpg";
-import TemirYollarMuzeyImage from "../../../public/temir-yol.jpeg";
-import AbdullaQahhorMuzeyImage from "../../../public/abdulla-qahhor.jpeg";
-import MuhtorAshrafiyMuzeyImage from "../../../public/muhtor-sharif.jpeg";
-import OybekMuzeyImage from "../../../public/oybek.jpeg";
-import TamaraXonimMuzeyImage from "../../../public/tamara-xonim.jpeg";
-import OrolMuzeyImage from "../../../public/orol-tansiqboyev.jpeg";
+// import TemirYollarMuzeyImage from "../../../public/temir-yol.jpeg";
+// import AbdullaQahhorMuzeyImage from "../../../public/abdulla-qahhor.jpeg";
+// import MuhtorAshrafiyMuzeyImage from "../../../public/muhtor-sharif.jpeg";
+// import OybekMuzeyImage from "../../../public/oybek.jpeg";
+// import TamaraXonimMuzeyImage from "../../../public/tamara-xonim.jpeg";
+// import OrolMuzeyImage from "../../../public/orol-tansiqboyev.jpeg";
 
 export const muzeys = [
   {

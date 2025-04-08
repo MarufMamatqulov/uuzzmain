@@ -5,7 +5,7 @@ import DavlatSanatMuzeyImage from "../../../public/islom-karimov-oq-saroy.jpg";
 import TemuriylarMuzeyImage from "../../../public/toshkent muzey.jpg";
 // import XotiraMuzeyImage from "../../../public/xotira-muzey.jpeg";
 import QiroliyKuchlarMuzeyImage from "../../../public/qiroliy-kuchlar.jpeg";
-import ShonSharafMuzeyImage from "../../../public/karvonsaroy1.JPG";
+import ShonSharafMuzeyImage from '../../../public/karvonsaroy1.JPG';
 // import TemirYollarMuzeyImage from "../../../public/temir-yol.jpeg";
 // import AbdullaQahhorMuzeyImage from "../../../public/abdulla-qahhor.jpeg";
 // import MuhtorAshrafiyMuzeyImage from "../../../public/muhtor-sharif.jpeg";

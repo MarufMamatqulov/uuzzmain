@@ -1,8 +1,8 @@
 import DavlatMuzeyImage from "../../public/Hamid_Olimjon_va_Zulfiya_muzeyi.jpg";
-import AmaliySanatMuzeyImage from "../../public/sanat-muzey.jpeg";
+import AmaliySanatMuzeyImage from "../../public/gafur gulomk uy muzeyi.jpg";
 import DavlatTabiatMuzeyImage from "../../public/tabiat muzeyi.jpg";
-import DavlatSanatMuzeyImage from "../../public/sanat-muzeys.jpeg";
-import TemuriylarMuzeyImage from "../../public/tarix-muzey.jpeg";
+import DavlatSanatMuzeyImage from "../../public/islom-karimov-oq-saroy.jpg";
+import TemuriylarMuzeyImage from "../../public/adiblar.jpg";
 import XotiraMuzeyImage from "../../public/xotira-muzey.jpeg";
 import QiroliyKuchlarMuzeyImage from "../../public/qiroliy-kuchlar.jpeg";
 import ShonSharafMuzeyImage from "../../public/shon-sharaf.jpeg";
@@ -181,7 +181,7 @@ export const muzeys = {
     src: AmaliySanatMuzeyImage,
     title: "muzeysInner:sanat.title",
     description: "muzeysInner:sanat.text1",
-    href: "http://360.vrmuseum.uz/museum2/",
+    href: "https://uzbekistan360.uz/uzb/location/gafur-gulam-home-museum",
     description2: "muzeysInner:sanat.text2",
     text360: "muzeysInner:sanat.360view",
   },
@@ -197,7 +197,7 @@ export const muzeys = {
     src: DavlatSanatMuzeyImage,
     title: "muzeysInner:sanat2.title",
     description: "muzeysInner:sanat2.text1",
-    href: "",
+    href: "https://uzbekistan360.uz/uzb/location/islam-karimov-museum",
     description2: "muzeysInner:sanat2.text2",
     text360: "muzeysInner:sanat2.360view",
   },
@@ -205,7 +205,7 @@ export const muzeys = {
     src: TemuriylarMuzeyImage,
     title: "muzeysInner:temuriylar.title",
     description: "muzeysInner:temuriylar.text1",
-    href: "http://360.vrmuseum.uz/museum19/",
+    href: "https://uzbekistan360.uz/uzb/location/adiblar-khijoboniw5S",
     description2: "muzeysInner:temuriylar.text2",
     text360: "muzeysInner:temuriylar.360view",
   },

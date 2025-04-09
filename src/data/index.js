@@ -229,7 +229,7 @@ export const muzeys = {
     src: ShonSharafMuzeyImage,
     title: "muzeysInner:sharaf.title",
     description: "muzeysInner:sharaf.text1",
-    href: "http://360.vrmuseum.uz/museum9/",
+    href: "https://uzbekistan360.uz/uzb/location/ikuo-hirayama-international-culture-caravanserai",
     description2: "muzeysInner:sharaf.text2",
     text360: "muzeysInner:sharaf.360view",
   },
